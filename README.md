@@ -1,5 +1,8 @@
 # SangamAuthTaskProject
-Usage
+
+#Steps >>
+
+
 Register
 
     Users can register by providing a valid email and password.
